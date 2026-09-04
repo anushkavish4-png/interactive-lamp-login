@@ -22,4 +22,4 @@ Built with HTML, CSS, JavaScript, and GSAP to explore interactive frontend desig
 
 ## Live Demo
 
-[View Live Project]interactive-lamp-login.onrender.com
+https://interactive-lamp-login.onrender.com
